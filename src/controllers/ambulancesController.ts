@@ -103,4 +103,38 @@ export async function addAmbulance(req: Request, res: Response<ApiResponse<{ amb
     }
 }
 
+export async function deleteAmbulance(req: Request, res: Response<ApiResponse<{ deletedId: string }>>) {
+    try {
+        const deleteId = (req as any).deleteId as string;
+        const filePath = resolve(process.cwd(), 'src/jsonData/available-ambulances-data.json');
+        
+        const rawData = readFileSync(filePath, 'utf8');
+        const ambulancesArray = JSON.parse(rawData) as Ambulance[];
+        
+        const initialLength = ambulancesArray.length;
+        const filteredAmbulances = ambulancesArray.filter(a => a.id !== deleteId);
+        
+        if (filteredAmbulances.length === initialLength) {
+            return res.status(HttpStatus.NOT_FOUND).json({
+                success: false,
+                message: Messages.ITEM_NOT_FOUND,
+            });
+        }
+        
+        const jsonData = JSON.stringify(filteredAmbulances, null, 4) + '\n';
+        writeFileSync(filePath, jsonData, 'utf8');
+        
+        return res.status(HttpStatus.OK).json({
+            success: true,
+            message: Messages.ITEM_DELETED,
+            data: { deletedId: deleteId },
+        });
+    } catch (err) {
+        return res.status(HttpStatus.INTERNAL_SERVER_ERROR).json({
+            success: false,
+            message: Messages.SERVER_ERROR,
+        });
+    }
+}
+
 

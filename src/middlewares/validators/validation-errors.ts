@@ -13,6 +13,7 @@ export const ValidationErrors = {
         languagesInvalid: 'languages must be an array of non-empty strings',
         emailRequired: 'email is required and must be a non-empty string',
         emailInvalid: 'email must be a valid email address',
+        idRequired: 'id is required and must be a non-empty string',
     },
     ambulance: {
         vehicleNumber: 'vehicleNumber is required and must be a non-empty string',
@@ -25,6 +26,7 @@ export const ValidationErrors = {
         vehicleContactNumberRequired: 'vehicleContactNumber is required and must be a non-empty string',
         vehicleContactNumberInvalid: 'vehicleContactNumber must be a valid phone number',
         vehicleHospital: 'vehicleHospital is required and must be a non-empty string',
+        idRequired: 'id is required and must be a non-empty string',
     },
 } as const;
 

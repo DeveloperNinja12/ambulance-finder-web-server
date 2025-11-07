@@ -10,6 +10,8 @@ export const Messages = {
     INVALID_PAGINATION: 'Invalid pagination parameters. Use positive integers for page and limit.',
     NO_DATA: 'No data available for the requested page.',
     SERVER_ERROR: 'An unexpected error occurred.',
+    ITEM_NOT_FOUND: 'Item not found with the provided ID.',
+    ITEM_DELETED: 'Item deleted successfully.',
 } as const;
 
 

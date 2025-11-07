@@ -23,5 +23,13 @@ export namespace DTOs {
         vehicleContactNumber: string;
         vehicleHospital: string;
     };
+
+    export type DeleteDoctorRequest = {
+        id: string;
+    };
+
+    export type DeleteAmbulanceRequest = {
+        id: string;
+    };
 }
 

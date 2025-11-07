@@ -103,4 +103,38 @@ export async function addDoctor(req: Request, res: Response<ApiResponse<{ doctor
     }
 }
 
+export async function deleteDoctor(req: Request, res: Response<ApiResponse<{ deletedId: string }>>) {
+    try {
+        const deleteId = (req as any).deleteId as string;
+        const filePath = resolve(process.cwd(), 'src/jsonData/available-doctors-data.json');
+        
+        const rawData = readFileSync(filePath, 'utf8');
+        const doctorsArray = JSON.parse(rawData) as Doctor[];
+        
+        const initialLength = doctorsArray.length;
+        const filteredDoctors = doctorsArray.filter(d => d.id !== deleteId);
+        
+        if (filteredDoctors.length === initialLength) {
+            return res.status(HttpStatus.NOT_FOUND).json({
+                success: false,
+                message: Messages.ITEM_NOT_FOUND,
+            });
+        }
+        
+        const jsonData = JSON.stringify(filteredDoctors, null, 4) + '\n';
+        writeFileSync(filePath, jsonData, 'utf8');
+        
+        return res.status(HttpStatus.OK).json({
+            success: true,
+            message: Messages.ITEM_DELETED,
+            data: { deletedId: deleteId },
+        });
+    } catch (err) {
+        return res.status(HttpStatus.INTERNAL_SERVER_ERROR).json({
+            success: false,
+            message: Messages.SERVER_ERROR,
+        });
+    }
+}
+
 
