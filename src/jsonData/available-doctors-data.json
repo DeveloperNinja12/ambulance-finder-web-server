@@ -1,0 +1,760 @@
+[
+    {
+        "doctorName": "Dr. Nisha Rao",
+        "designation": "Cardiologist",
+        "location": "Koramangala, Bengaluru, Karnataka, India",
+        "careerObject": "Board-certified cardiologist seeking to deliver compassionate, evidence-based cardiac care, with a focus on prevention, patient education, and minimally invasive therapies.",
+        "qualifications": [
+            "MBBS",
+            "MD (Internal Medicine)",
+            "DM (Cardiology)",
+            "FACC"
+        ],
+        "experience": "12 years",
+        "fees": 900,
+        "availability": "Mon-Sat 9:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Kannada",
+            "Hindi"
+        ],
+        "email": "nisha.rao@carecardio.in",
+        "id": "3610eb67bc601e7e"
+    },
+    {
+        "doctorName": "Dr. Arjun Menon",
+        "designation": "Orthopedic Surgeon",
+        "location": "BTM Layout, Bengaluru, Karnataka, India",
+        "careerObject": "Orthopedic surgeon dedicated to restoring mobility and quality of life through personalized surgical and non-surgical musculoskeletal care.",
+        "qualifications": [
+            "MBBS",
+            "MS (Orthopedics)",
+            "Fellowship in Arthroscopy"
+        ],
+        "experience": "9 years",
+        "fees": 700,
+        "availability": "Mon-Fri 10:00 AM - 5:00 PM",
+        "languages": [
+            "English",
+            "Malayalam",
+            "Hindi"
+        ],
+        "email": "arjun.menon@movebetterclinic.com",
+        "id": "41194b174c975564"
+    },
+    {
+        "doctorName": "Dr. Priya Sharma",
+        "designation": "Pediatrician",
+        "location": "Indiranagar, Bengaluru, Karnataka, India",
+        "careerObject": "Pediatrician committed to comprehensive child health, focusing on preventative care, growth milestones, and family-centered guidance.",
+        "qualifications": [
+            "MBBS",
+            "MD (Pediatrics)"
+        ],
+        "experience": "8 years",
+        "fees": 600,
+        "availability": "Mon-Sat 11:00 AM - 7:00 PM",
+        "languages": [
+            "English",
+            "Hindi",
+            "Kannada"
+        ],
+        "email": "priya.sharma@littlestepskids.in",
+        "id": "652dac79e4118609"
+    },
+    {
+        "doctorName": "Dr. Vivek Kulkarni",
+        "designation": "Neurologist",
+        "location": "Whitefield, Bengaluru, Karnataka, India",
+        "careerObject": "Neurologist aiming to advance outcomes in epilepsy and stroke management using multidisciplinary, guideline-driven approaches.",
+        "qualifications": [
+            "MBBS",
+            "MD (General Medicine)",
+            "DM (Neurology)"
+        ],
+        "experience": "14 years",
+        "fees": 1200,
+        "availability": "Tue-Sat 9:30 AM - 4:30 PM",
+        "languages": [
+            "English",
+            "Kannada",
+            "Marathi",
+            "Hindi"
+        ],
+        "email": "vivek.kulkarni@neuroaxis.in",
+        "id": "2643556737989ad3"
+    },
+    {
+        "doctorName": "Dr. Aishwarya Iyer",
+        "designation": "Dermatologist",
+        "location": "Jayanagar, Bengaluru, Karnataka, India",
+        "careerObject": "Dermatologist passionate about holistic skin, hair, and nail health, blending clinical dermatology with safe aesthetic practices.",
+        "qualifications": [
+            "MBBS",
+            "MD (Dermatology)",
+            "FAM"
+        ],
+        "experience": "7 years",
+        "fees": 650,
+        "availability": "Mon-Sat 10:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Tamil",
+            "Kannada"
+        ],
+        "email": "aishwarya.iyer@dermacarebengaluru.com",
+        "id": "1cb065a9ec54277b"
+    },
+    {
+        "doctorName": "Dr. Rohit Sinha",
+        "designation": "General Physician",
+        "location": "Bellandur, Bengaluru, Karnataka, India",
+        "careerObject": "Primary care physician focused on accurate diagnosis, continuity of care, and lifestyle-centric management of chronic conditions.",
+        "qualifications": [
+            "MBBS",
+            "MD (Internal Medicine)"
+        ],
+        "experience": "10 years",
+        "fees": 500,
+        "availability": "Mon-Sun 8:00 AM - 8:00 PM",
+        "languages": [
+            "English",
+            "Hindi",
+            "Kannada",
+            "Bengali"
+        ],
+        "email": "rohit.sinha@healthfirstclinic.in",
+        "id": "03d103a873369c31"
+    },
+    {
+        "doctorName": "Dr. Sneha Reddy",
+        "designation": "Gynecologist & Obstetrician",
+        "location": "Sarjapur Road, Bengaluru, Karnataka, India",
+        "careerObject": "OB-GYN committed to respectful, individualized women's health care across adolescence, pregnancy, and menopause.",
+        "qualifications": [
+            "MBBS",
+            "MS (OBG)",
+            "DNB (OBG)"
+        ],
+        "experience": "11 years",
+        "fees": 800,
+        "availability": "Mon-Sat 9:00 AM - 1:00 PM, 5:00 PM - 8:00 PM",
+        "languages": [
+            "English",
+            "Kannada",
+            "Telugu"
+        ],
+        "email": "sneha.reddy@bloomwomenshealth.com",
+        "id": "f5dd4981e96e7944"
+    },
+    {
+        "doctorName": "Dr. Imran Khan",
+        "designation": "Pulmonologist",
+        "location": "Electronic City, Bengaluru, Karnataka, India",
+        "careerObject": "Pulmonologist focused on asthma, COPD, and sleep medicine, integrating patient education with modern therapeutics.",
+        "qualifications": [
+            "MBBS",
+            "MD (Pulmonary Medicine)",
+            "Diploma in Sleep Medicine"
+        ],
+        "experience": "13 years",
+        "fees": 750,
+        "availability": "Mon-Fri 10:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Urdu",
+            "Hindi",
+            "Kannada"
+        ],
+        "email": "imran.khan@respirecare.org",
+        "id": "2b1f842bf640f29c"
+    },
+    {
+        "doctorName": "Dr. Kavya Desai",
+        "designation": "Endocrinologist",
+        "location": "Marathahalli, Bengaluru, Karnataka, India",
+        "careerObject": "Endocrinologist dedicated to comprehensive diabetes and thyroid care, emphasizing lifestyle modification and technology-enabled monitoring.",
+        "qualifications": [
+            "MBBS",
+            "MD (Medicine)",
+            "DM (Endocrinology)"
+        ],
+        "experience": "10 years",
+        "fees": 850,
+        "availability": "Mon-Sat 9:30 AM - 5:30 PM",
+        "languages": [
+            "English",
+            "Gujarati",
+            "Hindi",
+            "Kannada"
+        ],
+        "email": "kavya.desai@endoclinic.co.in",
+        "id": "b7636b83435a2505"
+    },
+    {
+        "doctorName": "Dr. Suresh Hebbar",
+        "designation": "Gastroenterologist",
+        "location": "JP Nagar, Bengaluru, Karnataka, India",
+        "careerObject": "Gastroenterologist focused on digestive health, offering endoscopic diagnostics and patient-centered therapy for chronic GI conditions.",
+        "qualifications": [
+            "MBBS",
+            "MD (Medicine)",
+            "DM (Gastroenterology)"
+        ],
+        "experience": "15 years",
+        "fees": 1100,
+        "availability": "Tue-Sat 10:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Kannada",
+            "Tulu",
+            "Hindi"
+        ],
+        "email": "suresh.hebbar@bengalurudigestive.com",
+        "id": "37d0c5368b9f5706"
+    },
+    {
+        "doctorName": "Dr. Ananya Bhatt",
+        "designation": "Psychiatrist",
+        "location": "Domlur, Bengaluru, Karnataka, India",
+        "careerObject": "Psychiatrist advocating for accessible, stigma-free mental health care, combining psychotherapy with evidence-based pharmacology.",
+        "qualifications": [
+            "MBBS",
+            "MD (Psychiatry)",
+            "Diploma in CBT"
+        ],
+        "experience": "6 years",
+        "fees": 900,
+        "availability": "Mon-Sat 12:00 PM - 8:00 PM",
+        "languages": [
+            "English",
+            "Hindi",
+            "Kannada"
+        ],
+        "email": "ananya.bhatt@mindwellclinic.in",
+        "id": "f078ab63ad233cbe"
+    },
+    {
+        "doctorName": "Dr. Meera Krishnan",
+        "designation": "Ophthalmologist",
+        "location": "Koramangala, Bengaluru, Karnataka, India",
+        "careerObject": "Ophthalmologist striving to preserve and enhance vision through precise diagnostics, cataract and refractive procedures, and patient education.",
+        "qualifications": [
+            "MBBS",
+            "MS (Ophthalmology)",
+            "FICO"
+        ],
+        "experience": "9 years",
+        "fees": 650,
+        "availability": "Mon-Sat 10:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Kannada",
+            "Tamil"
+        ],
+        "email": "meera.krishnan@clarityeyecare.in",
+        "id": "8d4aaa6d9c7a1984"
+    },
+    {
+        "doctorName": "Dr. Raghav Jain",
+        "designation": "Oncologist",
+        "location": "BTM Layout, Bengaluru, Karnataka, India",
+        "careerObject": "Medical oncologist committed to comprehensive cancer care integrating chemotherapy, immunotherapy, and supportive services.",
+        "qualifications": [
+            "MBBS",
+            "MD (Medicine)",
+            "DM (Medical Oncology)"
+        ],
+        "experience": "12 years",
+        "fees": 1300,
+        "availability": "Mon-Fri 9:30 AM - 5:30 PM",
+        "languages": [
+            "English",
+            "Hindi",
+            "Kannada"
+        ],
+        "email": "raghav.jain@lifeforceoncology.org",
+        "id": "4b2eb1e4d70d99b3"
+    },
+    {
+        "doctorName": "Dr. Shweta Nair",
+        "designation": "ENT Specialist",
+        "location": "Indiranagar, Bengaluru, Karnataka, India",
+        "careerObject": "ENT surgeon focused on sinus disease, voice disorders, and minimally invasive endoscopic procedures.",
+        "qualifications": [
+            "MBBS",
+            "MS (ENT)"
+        ],
+        "experience": "7 years",
+        "fees": 600,
+        "availability": "Mon-Sat 11:00 AM - 7:00 PM",
+        "languages": [
+            "English",
+            "Malayalam",
+            "Hindi"
+        ],
+        "email": "shweta.nair@audiovista.in",
+        "id": "4e3f236b1b25d423"
+    },
+    {
+        "doctorName": "Dr. Manish Verma",
+        "designation": "Urologist",
+        "location": "Whitefield, Bengaluru, Karnataka, India",
+        "careerObject": "Urologist delivering evidence-based care for kidney stones, prostate disease, and urologic cancers using minimally invasive techniques.",
+        "qualifications": [
+            "MBBS",
+            "MS (Surgery)",
+            "MCh (Urology)"
+        ],
+        "experience": "10 years",
+        "fees": 1000,
+        "availability": "Tue-Sat 10:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Hindi",
+            "Kannada"
+        ],
+        "email": "manish.verma@uroproclinic.com",
+        "id": "a3b07bc6aa678d08"
+    },
+    {
+        "doctorName": "Dr. Lakshmi Prasad",
+        "designation": "Rheumatologist",
+        "location": "Jayanagar, Bengaluru, Karnataka, India",
+        "careerObject": "Rheumatologist specializing in autoimmune and musculoskeletal disorders with an emphasis on early diagnosis and remission strategies.",
+        "qualifications": [
+            "MBBS",
+            "MD (Medicine)",
+            "DM (Rheumatology)"
+        ],
+        "experience": "11 years",
+        "fees": 950,
+        "availability": "Mon-Sat 9:00 AM - 3:00 PM",
+        "languages": [
+            "English",
+            "Kannada",
+            "Telugu"
+        ],
+        "email": "lakshmi.prasad@jointcarecentre.in",
+        "id": "3aaa39fa6c2b78cb"
+    },
+    {
+        "doctorName": "Dr. Aditya Kulshreshtha",
+        "designation": "Nephrologist",
+        "location": "Bellandur, Bengaluru, Karnataka, India",
+        "careerObject": "Nephrologist focused on comprehensive kidney care, dialysis optimization, and transplant medicine with patient-centred counselling.",
+        "qualifications": [
+            "MBBS",
+            "MD (Medicine)",
+            "DM (Nephrology)"
+        ],
+        "experience": "13 years",
+        "fees": 1100,
+        "availability": "Mon-Fri 10:00 AM - 5:00 PM",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "email": "aditya.k@bengalurunephro.in",
+        "id": "62a188e9de4d6735"
+    },
+    {
+        "doctorName": "Dr. Pooja Shetty",
+        "designation": "Dentist (Endodontist)",
+        "location": "Sarjapur Road, Bengaluru, Karnataka, India",
+        "careerObject": "Endodontist committed to painless root canal therapy and restorative dentistry using modern equipment and aseptic protocols.",
+        "qualifications": [
+            "BDS",
+            "MDS (Endodontics)"
+        ],
+        "experience": "8 years",
+        "fees": 500,
+        "availability": "Mon-Sat 10:00 AM - 7:00 PM",
+        "languages": [
+            "English",
+            "Kannada",
+            "Tulu"
+        ],
+        "email": "pooja.shetty@whitesmilesdental.in",
+        "id": "2eb5551e75a201cc"
+    },
+    {
+        "doctorName": "Dr. Harsha Venkatesh",
+        "designation": "Cardiothoracic Surgeon",
+        "location": "Electronic City, Bengaluru, Karnataka, India",
+        "careerObject": "Cardiothoracic surgeon dedicated to complex coronary and valve surgeries with fast-track recovery protocols.",
+        "qualifications": [
+            "MBBS",
+            "MS (Surgery)",
+            "MCh (CTVS)"
+        ],
+        "experience": "16 years",
+        "fees": 1500,
+        "availability": "Tue-Sat 9:00 AM - 4:00 PM",
+        "languages": [
+            "English",
+            "Kannada",
+            "Hindi"
+        ],
+        "email": "harsha.venkatesh@heartandlungcentre.org",
+        "id": "182b062a3e14aa0d"
+    },
+    {
+        "doctorName": "Dr. Neha Chatterjee",
+        "designation": "Hematologist",
+        "location": "Marathahalli, Bengaluru, Karnataka, India",
+        "careerObject": "Hematologist focused on anemias, coagulation disorders, and hematologic malignancies with protocol-driven care.",
+        "qualifications": [
+            "MBBS",
+            "MD (Pathology)",
+            "DM (Hematology)"
+        ],
+        "experience": "9 years",
+        "fees": 1200,
+        "availability": "Mon-Sat 10:00 AM - 5:30 PM",
+        "languages": [
+            "English",
+            "Bengali",
+            "Hindi"
+        ],
+        "email": "neha.chatterjee@bloodhealth.in",
+        "id": "5dedf9549abe08bb"
+    },
+    {
+        "doctorName": "Dr. Varun Reddy",
+        "designation": "Sports Medicine Specialist",
+        "location": "JP Nagar, Bengaluru, Karnataka, India",
+        "careerObject": "Sports medicine physician helping athletes return to play through injury prevention, rehab protocols, and performance optimization.",
+        "qualifications": [
+            "MBBS",
+            "MD (Sports Medicine)",
+            "Fellowship in Rehab"
+        ],
+        "experience": "7 years",
+        "fees": 700,
+        "availability": "Mon-Sat 1:00 PM - 8:00 PM",
+        "languages": [
+            "English",
+            "Telugu",
+            "Kannada"
+        ],
+        "email": "varun.reddy@proactivesportsmed.in",
+        "id": "cd5018694d8895c1"
+    },
+    {
+        "doctorName": "Dr. Zoya Ahmed",
+        "designation": "Infectious Disease Specialist",
+        "location": "Domlur, Bengaluru, Karnataka, India",
+        "careerObject": "ID specialist delivering stewardship-led antimicrobial therapy and outbreak control with patient safety at the core.",
+        "qualifications": [
+            "MBBS",
+            "MD (Medicine)",
+            "Fellowship in Infectious Diseases"
+        ],
+        "experience": "10 years",
+        "fees": 1000,
+        "availability": "Mon-Fri 10:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Urdu",
+            "Hindi"
+        ],
+        "email": "zoya.ahmed@idcarebengaluru.org",
+        "id": "322a24eaecab2bf0"
+    },
+    {
+        "doctorName": "Dr. Shashank Rao",
+        "designation": "Psychologist (Clinical)",
+        "location": "Koramangala, Bengaluru, Karnataka, India",
+        "careerObject": "Clinical psychologist offering CBT/DBT-based therapy focused on mood, anxiety, and stress-related disorders.",
+        "qualifications": [
+            "BA (Psychology)",
+            "MA (Clinical Psychology)",
+            "MPhil (Clinical Psychology)"
+        ],
+        "experience": "6 years",
+        "fees": 900,
+        "availability": "Mon-Sat 12:00 PM - 8:00 PM",
+        "languages": [
+            "English",
+            "Kannada",
+            "Hindi"
+        ],
+        "email": "shashank.rao@mindwellclinic.in",
+        "id": "fef2d0c07ad29a98"
+    },
+    {
+        "doctorName": "Dr. Ritu Singh",
+        "designation": "Dermatologist (Cosmetology)",
+        "location": "BTM Layout, Bengaluru, Karnataka, India",
+        "careerObject": "Dermatologist delivering safe aesthetic procedures with focus on acne, hair loss, and pigmentary disorders.",
+        "qualifications": [
+            "MBBS",
+            "MD (Dermatology)",
+            "FAM"
+        ],
+        "experience": "8 years",
+        "fees": 800,
+        "availability": "Mon-Sat 10:00 AM - 6:30 PM",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "email": "ritu.singh@dermacarestudio.in",
+        "id": "19d4b534d1cc7540"
+    },
+    {
+        "doctorName": "Dr. Kiranmayi Rao",
+        "designation": "Radiologist",
+        "location": "Indiranagar, Bengaluru, Karnataka, India",
+        "careerObject": "Radiologist providing high-quality imaging interpretation and image-guided procedures with rapid turnaround.",
+        "qualifications": [
+            "MBBS",
+            "MD (Radiodiagnosis)"
+        ],
+        "experience": "10 years",
+        "fees": 1000,
+        "availability": "Mon-Sat 9:00 AM - 5:00 PM",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "email": "kiranmayi.rao@precisionimaging.in",
+        "id": "54b1cec7c7d0ae1d"
+    },
+    {
+        "doctorName": "Dr. Ajith Nambiar",
+        "designation": "Geriatrician",
+        "location": "Whitefield, Bengaluru, Karnataka, India",
+        "careerObject": "Geriatrician enhancing healthy aging through comprehensive geriatric assessment and coordinated multidisciplinary care.",
+        "qualifications": [
+            "MBBS",
+            "MD (Geriatrics)"
+        ],
+        "experience": "14 years",
+        "fees": 700,
+        "availability": "Mon-Fri 10:00 AM - 4:00 PM",
+        "languages": [
+            "English",
+            "Malayalam",
+            "Hindi"
+        ],
+        "email": "ajith.nambiar@agingwell.in",
+        "id": "f1edb00d0fdc72a7"
+    },
+    {
+        "doctorName": "Dr. Smita Kulkarni",
+        "designation": "Allergist & Immunologist",
+        "location": "Jayanagar, Bengaluru, Karnataka, India",
+        "careerObject": "Allergist delivering personalized desensitization and immunotherapy to reduce symptom burden and improve quality of life.",
+        "qualifications": [
+            "MBBS",
+            "MD (Immunology)"
+        ],
+        "experience": "9 years",
+        "fees": 750,
+        "availability": "Mon-Sat 11:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Kannada",
+            "Marathi"
+        ],
+        "email": "smita.kulkarni@allergyreliefcentre.in",
+        "id": "2cd036c051249201"
+    },
+    {
+        "doctorName": "Dr. Deepak Sharma",
+        "designation": "Plastic & Reconstructive Surgeon",
+        "location": "Bellandur, Bengaluru, Karnataka, India",
+        "careerObject": "Plastic surgeon focused on reconstructive microsurgery and aesthetic procedures with safety and natural outcomes.",
+        "qualifications": [
+            "MBBS",
+            "MS (Surgery)",
+            "MCh (Plastic Surgery)"
+        ],
+        "experience": "12 years",
+        "fees": 1600,
+        "availability": "Tue-Sat 10:00 AM - 5:00 PM",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "email": "deepak.sharma@reformplastics.in",
+        "id": "d5db6b43e4d29912"
+    },
+    {
+        "doctorName": "Dr. Aditi Gupta",
+        "designation": "Dietitian & Nutritionist",
+        "location": "Sarjapur Road, Bengaluru, Karnataka, India",
+        "careerObject": "Clinical dietitian designing sustainable nutrition plans for metabolic disease, maternal health, and sports performance.",
+        "qualifications": [
+            "BSc (Nutrition)",
+            "MSc (Clinical Nutrition)"
+        ],
+        "experience": "6 years",
+        "fees": 400,
+        "availability": "Mon-Sat 10:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "email": "aditi.gupta@nutriwellness.in",
+        "id": "7b2bbd87b0944a63"
+    },
+    {
+        "doctorName": "Dr. Farhan Pasha",
+        "designation": "Pulmonologist (Sleep Medicine)",
+        "location": "Electronic City, Bengaluru, Karnataka, India",
+        "careerObject": "Pulmonologist specializing in sleep-disordered breathing and non-invasive ventilation with home-based monitoring.",
+        "qualifications": [
+            "MBBS",
+            "MD (Pulmonary Medicine)",
+            "Fellowship in Sleep Medicine"
+        ],
+        "experience": "8 years",
+        "fees": 850,
+        "availability": "Mon-Fri 1:00 PM - 8:00 PM",
+        "languages": [
+            "English",
+            "Kannada",
+            "Urdu"
+        ],
+        "email": "farhan.pasha@respirecare.org",
+        "id": "9481cc186a1d8b39"
+    },
+    {
+        "doctorName": "Dr. Test User",
+        "designation": "General Physician",
+        "location": "Test Location, Bengaluru, Karnataka, India",
+        "careerObject": "Test career objective",
+        "qualifications": [
+            "MBBS",
+            "MD"
+        ],
+        "experience": "5 years",
+        "fees": 500,
+        "availability": "Mon-Sat 9:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "email": "test.doctor@example.com",
+        "id": "a47fb1068211cdb3"
+    },
+    {
+        "doctorName": "Dr. Test User",
+        "designation": "General Physician",
+        "location": "Test Location, Bengaluru, Karnataka, India",
+        "careerObject": "Test career objective",
+        "qualifications": [
+            "MBBS",
+            "MD"
+        ],
+        "experience": "5 years",
+        "fees": 500,
+        "availability": "Mon-Sat 9:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "email": "test.doctor@example.com",
+        "id": "ab65caced6aff46a"
+    },
+    {
+        "doctorName": "Dr. Test User",
+        "designation": "General Physician",
+        "location": "Test Location, Bengaluru, Karnataka, India",
+        "careerObject": "Test career objective",
+        "qualifications": [
+            "MBBS",
+            "MD"
+        ],
+        "experience": "5 years",
+        "fees": 500,
+        "availability": "Mon-Sat 9:00 AM - 6:00 PM",
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "email": "test.doctor@example.com",
+        "id": "75730d467df9e78a"
+    },
+    {
+        "doctorName": "Gourav V.",
+        "designation": "Neurologist",
+        "location": "Teachers Colony, HSR Layout, Bengaluru, Karnataka, India",
+        "careerObject": "to help people",
+        "qualifications": [
+            "MBBS",
+            "MD Medicine",
+            "MD Surgery"
+        ],
+        "experience": "10 years",
+        "fees": 1890,
+        "availability": "Mon-Sat 9:00 - 22:00",
+        "languages": [
+            "English",
+            "Hindi",
+            "Kannada"
+        ],
+        "email": "gouravvishwakarma97@gmail.com",
+        "id": "db2f024db0ccc06f"
+    },
+    {
+        "doctorName": "Ganpath Rao",
+        "designation": "BAsic",
+        "location": "bengaluru",
+        "careerObject": "soasnasdf",
+        "qualifications": [
+            "MBBS"
+        ],
+        "experience": "10",
+        "fees": 1200,
+        "availability": "Mon-Sat 9:00 - 22:59",
+        "languages": [
+            "English",
+            "Marathi"
+        ],
+        "email": "someone@gmail.com",
+        "id": "7943317c36cd1040"
+    },
+    {
+        "doctorName": "asdasd",
+        "designation": "asdasd",
+        "location": "asdasd",
+        "careerObject": "sdasdads",
+        "qualifications": [
+            "sasdasd",
+            "asdasd"
+        ],
+        "experience": "10",
+        "fees": 700,
+        "availability": "Mon-Sat 9:00 - 22:59",
+        "languages": [
+            "English",
+            "Kannada"
+        ],
+        "email": "someotherperson@gmail.com",
+        "id": "580e64ceb96f4513"
+    },
+    {
+        "doctorName": "Prachet Tomar",
+        "designation": "Physician",
+        "location": "Indore",
+        "careerObject": "Daaru pike gaddi nahi chalana",
+        "qualifications": [
+            "MBBS",
+            "MD Medicine"
+        ],
+        "experience": "10 years",
+        "fees": 1200,
+        "availability": "Mon-Sat 9:00 - 22:59",
+        "languages": [
+            "English",
+            "hindi",
+            "bundelkhandi"
+        ],
+        "email": "prachettomar@gmail.com",
+        "id": "2968ca9b9076448d"
+    }
+]

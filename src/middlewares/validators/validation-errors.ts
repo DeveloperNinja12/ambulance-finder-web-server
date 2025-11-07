@@ -1,0 +1,30 @@
+export const ValidationErrors = {
+    doctor: {
+        doctorName: 'doctorName is required and must be a non-empty string',
+        designation: 'designation is required and must be a non-empty string',
+        location: 'location is required and must be a non-empty string',
+        careerObject: 'careerObject is required and must be a non-empty string',
+        qualificationsRequired: 'qualifications is required and must be a non-empty array',
+        qualificationsInvalid: 'qualifications must be an array of non-empty strings',
+        experience: 'experience is required and must be a non-empty string',
+        fees: 'fees is required and must be a non-negative number',
+        availability: 'availability is required and must be a non-empty string',
+        languagesRequired: 'languages is required and must be a non-empty array',
+        languagesInvalid: 'languages must be an array of non-empty strings',
+        emailRequired: 'email is required and must be a non-empty string',
+        emailInvalid: 'email must be a valid email address',
+    },
+    ambulance: {
+        vehicleNumber: 'vehicleNumber is required and must be a non-empty string',
+        vehicleType: 'vehicleType is required and must be a non-empty string',
+        vehicleModel: 'vehicleModel is required and must be a non-empty string',
+        vehicleYear: 'vehicleYear is required and must be a valid year (1900 to current year + 1)',
+        vehicleColor: 'vehicleColor is required and must be a non-empty string',
+        vehicleAssignedDriver: 'vehicleAssignedDriver is required and must be a non-empty string',
+        vehicleLocation: 'vehicleLocation is required and must be a non-empty string',
+        vehicleContactNumberRequired: 'vehicleContactNumber is required and must be a non-empty string',
+        vehicleContactNumberInvalid: 'vehicleContactNumber must be a valid phone number',
+        vehicleHospital: 'vehicleHospital is required and must be a non-empty string',
+    },
+} as const;
+
